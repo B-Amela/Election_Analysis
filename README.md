@@ -15,22 +15,23 @@ A colorado Board of ELections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
+![Final Election Results](https://user-images.githubusercontent.com/96217224/150704113-53f9aa9f-1774-4dd4-be2e-607d84e99cf7.png)
 
-![image](https://user-images.githubusercontent.com/96217224/149684971-3c8e2b0f-e316-43cb-b862-5e1f9fcc088c.png)
+THe largest county turnout was Denver with 82.8 % of the votes. 
 
--There were "x" votes cast in the election.
+-There were 369,711 votes cast in the election.
 
  ### The candidates were:
-    -Candidate 1
-    -Candidate 2
-    -Candidate 3
+    -Charles Casper Stockham
+    -Diana DeGette
+    -Raymond Anthony Doane
  ### The candidate results were:
-    -Candidate 1 received "x%" of the vote and "y number of votes.
-    -Candidate 2 received "x%" of the vote and "y number of votes.
-    -Candidate 3 received "x%" of the vote and "y number of votes.
+    -Charles Casper Stockham received 23% of the vote and 85,213 number of votes.
+    -Diana DeGette  received 73.8 of the vote and 272,892 number of votes.
+    -Raymond Anthony Doane received 3.1 of the vote and 11,606 number of votes.
  ### The winner of the election was:
-    -Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
-    
-## Challenge Overview
+    -Diana DeGette, who received 73.8 of the vote and 272,892 number of votes.
 
 ## Challenge Summary
+This script can be modified to find the most number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
+This script can also be modified to determine patterns among the characteristics. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county or geographical area.
